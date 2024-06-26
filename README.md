@@ -11,16 +11,13 @@ I'm not responsible for breaking duckduckgo TOS.
 
 You __HAVE__ to comply to the GDPR law, wathever you will do of those emails.
 
-This is a very first version.
+This is a very first version.\
+There is no check on the source file format\
 
-There is no check on the source file format
+Usage :python3 mailscraper.py filename
 
-Usage :python3 mailscrape.py filename
-
-Requirements: 
-
-install requirements via `pip3 install -r requirements.txt`
-
+Requirements: \
+install requirements via `pip3 install -r requirements.txt`\
 
 Untested outside of ubuntu.
 
